@@ -1,15 +1,6 @@
 <template>
   <div>
     <nuxt/>
-    <p>FOOO</p>
-    <form name="default-vue" action="thank-you" netlify>
-      <p>
-        <label>Message: <textarea name="message"></textarea></label>
-      </p>
-      <p>
-        <button type="submit">Send</button>
-      </p>
-    </form>
   </div>
 </template>
 

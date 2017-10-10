@@ -13,7 +13,7 @@
         {{ online ? 'online' : 'offline' }}
       </div>
       <br />
-      <form name="index-vue" action="thank-you" netlify>
+      <form name="index-vue" netlify>
         <p>
           <label>Your Name: <input type="text" name="name"></label>   
         </p>
